@@ -1,0 +1,12 @@
+.container {
+    width: 95%;
+}
+
+#header {
+    background: url(image/header.png) center center / cover no-repeat;
+    color: white;
+}
+
+#play, #pause {
+    font-size: 1.3rem;
+}
